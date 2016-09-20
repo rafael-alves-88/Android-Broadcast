@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaunchBroadcastReceiver</string>
+    <string name="executar_app">Executar App</string>
+</resources>
